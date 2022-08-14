@@ -1,34 +1,4 @@
 "ID","MAPTECH__FILCOLOR__C","MAPTECH__GYOUSEIKUBUN__C","MAPTECH__LAYERFILOPTICALLY__C","MAPTECH__LINECOLOR__C","MAPTECH__MAPTECHUSERID__C","MAPTECH__POLYGON_LATLNGINFO__C"
-"a177F00000GlMKqQAN","ffffff","27osaka_s.geojson","0","07e4ca","a1F7F00000EQvZQUA1","[
- {
-  ""lat"": 34.40825495900089,
-  ""lng"": 135.31013067425116
- },
- {
-  ""lat"": 34.408458546336355,
-  ""lng"": 135.3078883475147
- },
- {
-  ""lat"": 34.4050329021568,
-  ""lng"": 135.30773814380987
- },
- {
-  ""lat"": 34.40410343962117,
-  ""lng"": 135.3089505022846
- },
- {
-  ""lat"": 34.4050329021568,
-  ""lng"": 135.31099970997198
- },
- {
-  ""lat"": 34.40689179625031,
-  ""lng"": 135.31207259357794
- },
- {
-  ""lat"": 34.40783007948737,
-  ""lng"": 135.31109626949652
- }
-]"
 "a177F00000GlMKvQAN","ffffff","27osaka_s.geojson","0","07e4ca","a1F7F00000EQvZQUA1","[
  {
   ""lat"": 34.4066314137003,
