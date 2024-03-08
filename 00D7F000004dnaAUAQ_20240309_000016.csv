@@ -1,0 +1,37 @@
+"ID","MapTech__FILCOLOR__C","MapTech__GYOUSEIKUBUN__C","MapTech__LAYERFILOPTICALLY__C","MapTech__LINECOLOR__C","MapTech__MAPTECHUSERID__C","MapTech__POLYGON_LATLNGINFO__C"
+"a17GA00000GRX8fYAH","c8c1c1","28hyogo_s.geojson","0","d992ca","a1F7F00000EQvKQUA1","[
+ {
+  ""lat"": 35.91835305620267,
+  ""lng"": 139.6196675380589
+ },
+ {
+  ""lat"": 35.89419950214783,
+  ""lng"": 139.61974652930098
+ }
+]"
+"a17GA00000GRX8pYAH","c8c1c1","28hyogo_s.geojson","0","d992ca","a1F7F00000EQvKQUA1","[
+ {
+  ""lat"": 35.91953578531108,
+  ""lng"": 139.6118539947196
+ }
+]"
+"a17GA00000GRX8uYAH","c8c1c1","28hyogo_s.geojson","0","d992ca","a1F7F00000EQvKQUA1","[
+ {
+  ""lat"": 35.919534699228784,
+  ""lng"": 139.61185466527186
+ },
+ {
+  ""lat"": 35.89521603462616,
+  ""lng"": 139.6108212295697
+ }
+]"
+"a17GA00000GRX99YAH","c8c1c1","28hyogo_s.geojson","0","d992ca","a1F7F00000EQvKQUA1","[
+ {
+  ""lat"": 35.91616041637612,
+  ""lng"": 139.60875621052807
+ },
+ {
+  ""lat"": 35.895750762399615,
+  ""lng"": 139.60859285733767
+ }
+]"
