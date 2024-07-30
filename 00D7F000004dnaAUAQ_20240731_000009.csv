@@ -1,0 +1,57 @@
+"ID","MapTech__FILCOLOR__C","MapTech__GYOUSEIKUBUN__C","MapTech__LAYERFILOPTICALLY__C","MapTech__LINECOLOR__C","MapTech__MAPTECHUSERID__C","MapTech__POLYGON_LATLNGINFO__C"
+"a17GA00000IUgoYYAT","c8c1c1","08ibaraki_s.geojson","0","d992ca","a1F7F00000EQvKQUA1","[
+ {
+  ""lat"": 36.366933346964814,
+  ""lng"": 140.49795900312364
+ }
+]"
+"a17GA00000IUgodYAD","c8c1c1","08ibaraki_s.geojson","0","d992ca","a1F7F00000EQvKQUA1","[
+ {
+  ""lat"": 36.366829675937524,
+  ""lng"": 140.49787317243516
+ },
+ {
+  ""lat"": 36.367037017853946,
+  ""lng"": 140.51207815137803
+ }
+]"
+"a17GA00000IUgosYAD","c8c1c1","08ibaraki_s.geojson","0","d992ca","a1F7F00000EQvKQUA1","[
+ {
+  ""lat"": 36.362948203600055,
+  ""lng"": 140.51206613954025
+ },
+ {
+  ""lat"": 36.36291364483649,
+  ""lng"": 140.49781824525314
+ }
+]"
+"a17GA00000IUgp7YAD","c8c1c1","08ibaraki_s.geojson","0","d992ca","a1F7F00000EQvKQUA1","[
+ {
+  ""lat"": 36.35857902762323,
+  ""lng"": 140.51192584798127
+ },
+ {
+  ""lat"": 36.35859630796934,
+  ""lng"": 140.49778524205476
+ }
+]"
+"a17GA00000IUgpWYAT","c8c1c1","08ibaraki_s.geojson","0","d992ca","a1F7F00000EQvKQUA1","[
+ {
+  ""lat"": 36.353558190175875,
+  ""lng"": 140.4975832436642
+ },
+ {
+  ""lat"": 36.35345450133045,
+  ""lng"": 140.51200279932826
+ }
+]"
+"a17GA00000IUgplYAD","c8c1c1","08ibaraki_s.geojson","0","d992ca","a1F7F00000EQvKQUA1","[
+ {
+  ""lat"": 36.37123014305764,
+  ""lng"": 140.49801608008394
+ },
+ {
+  ""lat"": 36.371236576835784,
+  ""lng"": 140.4859855612011
+ }
+]"
