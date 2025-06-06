@@ -1,0 +1,29 @@
+"ID","MapTech__FILCOLOR__C","MapTech__GYOUSEIKUBUN__C","MapTech__LAYERFILOPTICALLY__C","MapTech__LINECOLOR__C","MapTech__MAPTECHUSERID__C","MapTech__POLYGON_LATLNGINFO__C"
+"a17TL00009cLp7AYAS","000000","24mie_s.geojson","0","506fce","a1F7F00000D1wlWUAR","[
+ {
+  ""lat"": 36.64434558605544,
+  ""lng"": 140.00304808570795
+ },
+ {
+  ""lat"": 36.64379465009945,
+  ""lng"": 140.02158751441888
+ },
+ {
+  ""lat"": 36.653710894363705,
+  ""lng"": 140.0211583609765
+ },
+ {
+  ""lat"": 36.6538486109882,
+  ""lng"": 140.00236144020013
+ }
+]"
+"a17TL00009cUdiOYAS","c8c1c1","08ibaraki_s.geojson","0","d992ca","a1F7F00000EQvKQUA1","[
+ {
+  ""lat"": 36.85470421290597,
+  ""lng"": 140.0131901201135
+ },
+ {
+  ""lat"": 36.854772891079605,
+  ""lng"": 140.0414284166223
+ }
+]"
