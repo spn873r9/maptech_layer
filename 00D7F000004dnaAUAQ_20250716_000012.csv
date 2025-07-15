@@ -1,0 +1,23 @@
+"ID","MapTech__FILCOLOR__C","MapTech__GYOUSEIKUBUN__C","MapTech__LAYERFILOPTICALLY__C","MapTech__LINECOLOR__C","MapTech__MAPTECHUSERID__C","MapTech__POLYGON_LATLNGINFO__C"
+"a17TL0000BJdPCWYQ3","c8c1c1","09tochigi_s.geojson","0","d992ca","a1F7F00000EQvKQUA1","[
+ {
+  ""lat"": 37.5298426007626,
+  ""lng"": 140.39701569657598
+ },
+ {
+  ""lat"": 37.52517987653228,
+  ""lng"": 140.39697278123174
+ },
+ {
+  ""lat"": 37.52759636123917,
+  ""lng"": 140.388733035138
+ },
+ {
+  ""lat"": 37.52905982800151,
+  ""lng"": 140.38950551133428
+ },
+ {
+  ""lat"": 37.53123795791942,
+  ""lng"": 140.39062131028447
+ }
+]"
