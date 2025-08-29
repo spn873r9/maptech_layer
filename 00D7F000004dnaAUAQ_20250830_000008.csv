@@ -1,0 +1,41 @@
+"ID","MapTech__FILCOLOR__C","MapTech__GYOUSEIKUBUN__C","MapTech__LAYERFILOPTICALLY__C","MapTech__LINECOLOR__C","MapTech__MAPTECHUSERID__C","MapTech__POLYGON_LATLNGINFO__C"
+"a17TL0000D2kHoaYQE","ffffff","07fukushima_s.geojson","0","ef93fb","a1FTL000007Ac1Z2AS","[
+ {
+  ""lat"": 37.508075062687745,
+  ""lng"": 140.33433183296967
+ },
+ {
+  ""lat"": 37.47892826805129,
+  ""lng"": 140.3386233673935
+ }
+]"
+"a17TL0000D35NHKYQ2","ffffff","07fukushima_s.geojson","0","ef93fb","a1FTL000007Ac1Z2AS","[
+ {
+  ""lat"": 37.51509960026038,
+  ""lng"": 140.3476974106268
+ },
+ {
+  ""lat"": 37.47287788447471,
+  ""lng"": 140.3550788498358
+ }
+]"
+"a17TL0000D37MtBYQU","ffffff","07fukushima_s.geojson","0","ef93fb","a1FTL000007Ac1Z2AS","[
+ {
+  ""lat"": 37.51292199999589,
+  ""lng"": 140.35960306225655
+ },
+ {
+  ""lat"": 37.47001784198084,
+  ""lng"": 140.3678428083503
+ }
+]"
+"a17TL0000D389SjYQI","ffffff","07fukushima_s.geojson","0","ef93fb","a1FTL000007Ac1Z2AS","[
+ {
+  ""lat"": 37.514980519669564,
+  ""lng"": 140.3697765390181
+ },
+ {
+  ""lat"": 37.47658169595946,
+  ""lng"": 140.3786388826345
+ }
+]"
