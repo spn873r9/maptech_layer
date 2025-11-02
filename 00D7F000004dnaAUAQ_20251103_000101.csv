@@ -1,0 +1,71 @@
+"ID","MapTech__FILCOLOR__C","MapTech__GYOUSEIKUBUN__C","MapTech__LAYERFILOPTICALLY__C","MapTech__LINECOLOR__C","MapTech__MAPTECHUSERID__C","MapTech__POLYGON_LATLNGINFO__C"
+"a17TL0000Fd2oA3YQI","ffffff","04miyagi_s.geojson","0","d7fb93","a1FTL000007Ac1Z2AS","[
+ {
+  ""lat"": 38.0264040891663,
+  ""lng"": 140.77301450048657
+ },
+ {
+  ""lat"": 38.01100485968722,
+  ""lng"": 140.7728616460186
+ }
+]"
+"a17TL0000Fd3mM9YQI","ffffff","04miyagi_s.geojson","0","d7fb93","a1FTL000007Ac1Z2AS","[
+ {
+  ""lat"": 38.0263723229806,
+  ""lng"": 140.78123196482775
+ },
+ {
+  ""lat"": 38.01095693633872,
+  ""lng"": 140.78106244526938
+ }
+]"
+"a17TL0000Fd4IWCYQ2","ffffff","04miyagi_s.geojson","0","d7fb93","a1FTL000007Ac1Z2AS","[
+ {
+  ""lat"": 38.026399320758976,
+  ""lng"": 140.77672947539236
+ },
+ {
+  ""lat"": 38.01100750062431,
+  ""lng"": 140.77742308934276
+ }
+]"
+"a17TL0000Fd4Uq3YQE","ffffff","04miyagi_s.geojson","0","d7fb93","a1FTL000007Ac1Z2AS","[
+ {
+  ""lat"": 38.0263994571234,
+  ""lng"": 140.7742714444641
+ },
+ {
+  ""lat"": 38.01098010668355,
+  ""lng"": 140.77416737215415
+ }
+]"
+"a17TL0000Fd4YplYQE","ffffff","04miyagi_s.geojson","0","d7fb93","a1FTL000007Ac1Z2AS","[
+ {
+  ""lat"": 38.026401723979404,
+  ""lng"": 140.7755726206342
+ },
+ {
+  ""lat"": 38.0109344124725,
+  ""lng"": 140.77582939061182
+ }
+]"
+"a17TL0000Fd4rsXYQQ","ffffff","04miyagi_s.geojson","0","d7fb93","a1FTL000007Ac1Z2AS","[
+ {
+  ""lat"": 38.026338269541526,
+  ""lng"": 140.7835327934419
+ },
+ {
+  ""lat"": 38.01105754645981,
+  ""lng"": 140.78411517959685
+ }
+]"
+"a17TL0000Fd550OYQQ","ffffff","04miyagi_s.geojson","0","d7fb93","a1FTL000007Ac1Z2AS","[
+ {
+  ""lat"": 38.02634960615644,
+  ""lng"": 140.77880640047545
+ },
+ {
+  ""lat"": 38.01112773769547,
+  ""lng"": 140.77944799780337
+ }
+]"
